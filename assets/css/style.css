@@ -34,6 +34,7 @@ body {
     font-size: 20px;
 }
 
+/* No bullet point marker is dispalyed in the unordered list */
 .header div ul {
     list-style-type: none;
 }
@@ -97,6 +98,7 @@ p {
     font-size: 16px;
 }
 
+/* Clear both causes elements to be pushed below all floated elements. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
