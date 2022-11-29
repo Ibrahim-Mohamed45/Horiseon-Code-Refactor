@@ -30,4 +30,5 @@ Please refer to the LICENSE in the repo.
 * I fixed the links on the website so they function correctly.
 * I consolidated CSS selectors and properties and remove redundtant parts of the CSS starter file.
 * I added comments to the CSS file.
+* I resized the images so the page will load faster.
 
