@@ -4,11 +4,6 @@
     margin: 0;
 }
 
-/* Added smooth scroll behaviour so when link are pressed it will smooth scroll to the location instead of auto scroll there. */
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     background-color: #d9dcd6;
 }
