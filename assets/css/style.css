@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Added smooth scroll behaviour so when link are pressed it will smooth scroll to the location instead of auto scroll there. */
 html {
     scroll-behavior: smooth;
 }
@@ -24,10 +25,12 @@ body {
     font-size: 48px;
 }
 
+/* The seo part of horiseon's colour is changed to grey. */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* The div which contains the ul is floated to the right. */ 
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +53,8 @@ a {
     text-decoration: none;
 }
 
-.hero {
+/* This sets the digital marketing meeting image as the background image for the nav element. */ 
+.nav-design {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -65,7 +69,8 @@ a {
     margin-left: 20px;
 }
 
-.article-design {
+/* Considated the design for the three sections and made a uniform class for the sections. */
+.section-design {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -74,11 +79,11 @@ a {
     color: #ffffff;
 }
 
-.article-design img {
+.section-design img {
     max-height: 200px;
 }
 
-.article-design h2 {
+.section-design h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -108,6 +113,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Considated the design for the aside and made a uniform class for the aside. */
 .aside-design {
     margin-bottom: 32px;
     color: #ffffff;
@@ -124,6 +130,7 @@ p {
     max-width: 150px;
 }
 
+/* Text is aligned to the center of the page. */ 
 .footer {
     padding: 30px;
     clear: both;
@@ -131,6 +138,7 @@ p {
     text-align: center;
 }
 
+/* Heading changed to h4 so heading attributes fall in sequential order. */
 .footer h4 {
     font-size: 20px;
 }
