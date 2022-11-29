@@ -24,7 +24,7 @@ Please refer to the LICENSE in the repo.
 
 * I added html scroll-behavior for smooth transition when links are pressed.
 * I added semantic HTML elements to the starter code.
-* I added alt attribute to images so users of the website are proivided information about the image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+* I added alt attribute to images so users of the website are proivided with information about the image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
 * I changed heading attributes so they fall in sequential order.
 * I changed title attribute to a descriptive title.
 * I fixed the links on the website so they function correctly.
